@@ -15,6 +15,7 @@ However, none of the existing studies explored the potential of LLMs in gene fun
 During BLAH, we will experiment with different prompts. The input to the LLM will be a piece of text (depending on the max token size allowed by the LLM) containing the protein name of interest and the output will be a list of functions of this protein. Functions can be returned in free text form (entity recognition) along with their GO IDs (Normalization). Depending on the performance, we may implement a normalization method (which could be based on text similarity). The scalability of the LLM-based approaches to a larger dataset/whole literature depends on the budget of the one who likes to apply.
 
 References:
+
 [1] Sumyyah Toonsi. Automatic Protein Function Annotation Through Text Mining”. MS Thesis (2019).
 
 [2] Jia-Hong Wang et al. GenCLiP 3: mining human genes’ functions and regulatory networks from PubMed based on co-occurrences and natural language processing, Bioinformatics, Vol. 36, Issue 6,  pp. 1973–1975, (2019), https://doi.org/10.1093/bioinformatics/btz807
