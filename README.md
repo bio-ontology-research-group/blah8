@@ -1,4 +1,4 @@
-# Use of Large Language Models for Gene Function Extraction from Literature
+# Using Large Language Models for Gene Function Extraction from Literature
 
 Authors: Senay Kafkas, Sumyyah Toonsi, Robert Hoehndorf
 Affiliation: King Abdullah University of Science and Technology 
